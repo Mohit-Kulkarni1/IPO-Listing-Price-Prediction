@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+pylint
+pytest
+black
+joblib
+ipython
+seaborn
+matplotlib
